@@ -8,4 +8,4 @@ For You to be able to run this code You'll need a Smart Card with a valid Signin
 
 https://pdfbox.apache.org/download.cgi
 
-The main class SignPDF has my PIN on it so You need to change that according to your Smart Card information and You also need to install the opensc-tool so You can communicate with your Smart Card.
+The main class SignPDF has my PIN on it so You need to change that according to your Smart Card information and You also need to install opensc-tool and pcsc so You can communicate with your Smart Card.
